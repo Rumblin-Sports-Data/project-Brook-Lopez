@@ -1,0 +1,1 @@
+Project Brook Lopez is a sports data deep dive.  I have pulled NBA rosters and NBA stats going back to 1976, to show the change in the frequency of 3 point shots.  I'm especially focusing on the change in shot selection of the big men - 7-footers like Brook Lopez that all of a sudden figured out how to shoot 3's.
